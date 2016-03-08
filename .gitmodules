@@ -1,0 +1,9 @@
+[submodule "Craswell-Squid-Helper"]
+	path = Craswell-Squid-Helper
+	url = git@github.com:scraswell/Craswell-Squid-Helper.git
+[submodule "Craswell-Squid-AclHelper"]
+	path = Craswell-Squid-AclHelper
+	url = git@github.com:scraswell/Craswell-Squid-AclHelper.git
+[submodule "SquidAclHelper"]
+	path = SquidAclHelper
+	url = git@github.com:scraswell/SquidAclHelper.git
