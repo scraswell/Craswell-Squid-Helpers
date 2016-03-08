@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquidAclHelper", "SquidAclHelper\SquidAclHelper.csproj", "{84A3DE2B-53EA-467C-92D7-BF8C6AC6E539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Squid.AclHelper", "Craswell.Squid.AclHelper\Craswell.Squid.AclHelper.csproj", "{418B7A2C-0D17-4D29-98D9-C59DC2A54780}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Squid.AclHelper", "Craswell-Squid-AclHelper\Craswell.Squid.AclHelper.csproj", "{418B7A2C-0D17-4D29-98D9-C59DC2A54780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Squid.Helper", "Craswell.Squid.Helper\Craswell.Squid.Helper.csproj", "{51DFE6C7-8328-48E1-8EB0-A03C9C3755DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Squid.Helper", "Craswell-Squid-Helper\Craswell.Squid.Helper.csproj", "{51DFE6C7-8328-48E1-8EB0-A03C9C3755DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
